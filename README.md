@@ -5,10 +5,10 @@ This project is a comprehensive Python-based stock market analysis and forecasti
 The model provides a clear investment recommendation and visualizes all key findings.
 
 The project demonstrates knowledge in:
-Financial Data Analysis: Handling stock data, calculating returns, and key statistics.
-Technical Analysis: Applying common indicators to understand market trends.
-Time Series Forecasting: Using ARIMA models for future price prediction.
-Statistical Modeling & Simulation: Implementing Monte Carlo simulations for probabilistic forecasting and risk assessment (VaR, Expected Shortfall, Sharpe Ratio).
-Data Visualization: Presenting complex data and insights interactively using Plotly.
-Python Programming: Proficiency with libraries like yfinance, pandas, numpy, plotly, statsmodels, pmdarima, and scipy.
-Skills: Python for Data Analysis · Predictive Analytics · Descriptive Analysis · Prescriptive Analytics · Statistical Data Analysis · Forecasting · Time Series Analysis · Statistical Modeling · Data Visualization · Monte Carlo Simulation
+1. Financial Data Analysis: Handling stock data, calculating returns, and key statistics.
+2. Technical Analysis: Applying common indicators to understand market trends.
+3. Time Series Forecasting: Using ARIMA models for future price prediction.
+4. Statistical Modeling & Simulation: Implementing Monte Carlo simulations for probabilistic forecasting and risk assessment (VaR, Expected Shortfall, Sharpe Ratio).
+5. Data Visualization: Presenting complex data and insights interactively using Plotly.
+6. Python Programming: Proficiency with libraries like yfinance, pandas, numpy, plotly, statsmodels, pmdarima, and scipy.
+7. Skills: Python for Data Analysis · Predictive Analytics · Descriptive Analysis · Prescriptive Analytics · Statistical Data 8. Analysis · Forecasting · Time Series Analysis · Statistical Modeling · Data Visualization · Monte Carlo Simulation
